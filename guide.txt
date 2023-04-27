@@ -1,0 +1,5 @@
+We upload this file to Yandex Cloud in the function. In Yandex Dialogs, select "Function in Yandex Cloud" 
+and insert the link from Yandex Cloud into the line entry field.
+---------------------------------------------------------------------------------------------------------
+Данный файл загружаем в Яндекс Облако в функцию. В Яндекс Диалогах выбираем "Функция в Яндекс Облаке"
+и вставляем ссылку из Яндекс Облака в поле для ввода строки.
